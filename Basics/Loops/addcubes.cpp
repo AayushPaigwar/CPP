@@ -3,10 +3,10 @@
 using namespace std;
 int main()
 {
-    int i,n,sum=0;
+    int i,number,sum=0;
     cout<<"Enter the number:";          //input from the user
-    cin>>n;
-    for(i=1;i<=n;i++)                   //to read all numbers till n.
+    cin>>number;
+    for(i=1;i<=number;i++)                   //to read all numbers till n.
     {
         sum= sum +(i*i*i);              //to add the cube of numbers till n.
     }
