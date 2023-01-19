@@ -10,5 +10,5 @@ int main()
     {
         sum= sum +(i*i*i);              //to add the cube of numbers till n.
     }
-    cout<<sum<<" is the addition";      //printing the addtion.
+    cout<<sum<<" is the addition of cube of N numbers.";      //printing the addtion.
 }
