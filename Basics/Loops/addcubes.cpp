@@ -8,7 +8,7 @@ int main()
     cin>>n;
     for(i=1;i<=n;i++)                   //to read all numbers till n.
     {
-        sum= sum +(i*i*i)        //to add the cube of numbers till n.
+        sum= sum +(i*i*i);              //to add the cube of numbers till n.
     }
-    cout<<sum<<" is the addition";      //printing the addition.
+    cout<<sum<<" is the addition";      //printing the addtion.
 }
