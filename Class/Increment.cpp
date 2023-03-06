@@ -4,6 +4,7 @@
 using namespace std;
 
 class Number
+
 {
 private:
     int num;
@@ -30,7 +31,6 @@ public:
 
 int main()
 {
-
     Number n1;
     n1.getData();
     cout << "Initial ";
